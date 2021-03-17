@@ -5,7 +5,7 @@ import "fmt"
 //Declaracion de variables con tipado. Primera forma
 // variables declaradas globalmente en el paquete
 var numero int // int8, int16, int32, int64, uint8.. (sin signos)
-var texto string = "Hola"
+var texto string = "Hola, "
 var status bool
 
 //variables publicas con la primera letra en minuscula
